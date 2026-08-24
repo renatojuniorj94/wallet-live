@@ -279,6 +279,7 @@ name = "project-wallet-live"
 version = "0.1.0"
 dependencies = [
  "axum",
+ "tokio",
 ]
 
 [[package]]
