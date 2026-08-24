@@ -1,0 +1,4 @@
+Para acessar a documentação de um pacote, no terminal digitamos:
+cargo doc --open
+
+paramos a aula com 7:50
